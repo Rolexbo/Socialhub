@@ -91,7 +91,7 @@ export default function Home() {
               </div>
               <div className="rounded-lg overflow-hidden">
                 <img
-                  src="/placeholder.svg?height=600&width=800"
+                  src="/images/restaurant-dining.jpg"
                   alt="Social Hub 360"
                   className="aspect-video object-cover w-full rounded-lg"
                   width={800}
@@ -339,7 +339,7 @@ export default function Home() {
               </div>
               <div className="rounded-lg overflow-hidden">
                 <img
-                  src="/placeholder.svg?height=600&width=800"
+                  src="/images/social-lounge.jpg"
                   alt="Reserva en Social Hub 360"
                   className="aspect-video object-cover w-full rounded-lg"
                   width={800}
@@ -361,8 +361,8 @@ export default function Home() {
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12">
               <div className="rounded-lg overflow-hidden">
                 <img
-                  src="/placeholder.svg?height=600&width=800"
-                  alt="Mapa de ubicación"
+                  src="/images/location-map.jpg"
+                  alt="Ubicación Social Hub 360 en Equipetrol"
                   className="aspect-video object-cover w-full rounded-lg"
                   width={800}
                   height={600}

@@ -33,7 +33,7 @@ export default function NightlifeSection() {
           </CardHeader>
           <CardContent>
             <div className="aspect-square relative overflow-hidden rounded-md">
-              <img src="/placeholder.svg?height=300&width=300" alt="DJ" className="object-cover w-full h-full" />
+              <img src="/images/dj-performance.jpg" alt="DJ Residente" className="object-cover w-full h-full" />
             </div>
           </CardContent>
           <CardFooter className="flex justify-between">
@@ -56,7 +56,7 @@ export default function NightlifeSection() {
           </CardHeader>
           <CardContent>
             <div className="aspect-square relative overflow-hidden rounded-md">
-              <img src="/placeholder.svg?height=300&width=300" alt="Cócteles" className="object-cover w-full h-full" />
+              <img src="/images/cocktails.jpg" alt="Cócteles Premium" className="object-cover w-full h-full" />
             </div>
           </CardContent>
           <CardFooter className="flex justify-between">

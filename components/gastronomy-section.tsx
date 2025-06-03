@@ -34,7 +34,7 @@ export default function GastronomySection() {
           </CardHeader>
           <CardContent>
             <div className="aspect-square relative overflow-hidden rounded-md">
-              <img src="/placeholder.svg?height=300&width=300" alt="Brunch" className="object-cover w-full h-full" />
+              <img src="/images/chef-kitchen.jpg" alt="Brunch" className="object-cover w-full h-full" />
             </div>
           </CardContent>
           <CardFooter className="flex justify-between">
@@ -57,11 +57,7 @@ export default function GastronomySection() {
           </CardHeader>
           <CardContent>
             <div className="aspect-square relative overflow-hidden rounded-md">
-              <img
-                src="/placeholder.svg?height=300&width=300"
-                alt="Comida Gourmet"
-                className="object-cover w-full h-full"
-              />
+              <img src="/images/restaurant-dining.jpg" alt="Comida Gourmet" className="object-cover w-full h-full" />
             </div>
           </CardContent>
           <CardFooter className="flex justify-between">

@@ -34,11 +34,7 @@ export default function SocialSpacesSection() {
           </CardHeader>
           <CardContent>
             <div className="aspect-square relative overflow-hidden rounded-md">
-              <img
-                src="/placeholder.svg?height=300&width=300"
-                alt="Lounge VIP"
-                className="object-cover w-full h-full"
-              />
+              <img src="/images/daytime-lounge.jpg" alt="Lounge VIP" className="object-cover w-full h-full" />
             </div>
           </CardContent>
           <CardFooter className="flex justify-between">
@@ -56,16 +52,12 @@ export default function SocialSpacesSection() {
         </Card>
         <Card>
           <CardHeader className="pb-2">
-            <CardTitle>Sala de Juegos</CardTitle>
-            <CardDescription>Entretenimiento social</CardDescription>
+            <CardTitle>Ambiente Nocturno</CardTitle>
+            <CardDescription>Socialización nocturna</CardDescription>
           </CardHeader>
           <CardContent>
             <div className="aspect-square relative overflow-hidden rounded-md">
-              <img
-                src="/placeholder.svg?height=300&width=300"
-                alt="Sala de Juegos"
-                className="object-cover w-full h-full"
-              />
+              <img src="/images/nightlife-bar.jpg" alt="Sala de Juegos" className="object-cover w-full h-full" />
             </div>
           </CardContent>
           <CardFooter className="flex justify-between">

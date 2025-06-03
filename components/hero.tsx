@@ -44,7 +44,7 @@ export default function Hero() {
               alt="Social Hub 360"
               className="aspect-video object-cover w-full rounded-xl"
               height="310"
-              src="/placeholder.svg?height=310&width=550"
+              src="/images/social-lounge.jpg"
               width="550"
             />
           </div>

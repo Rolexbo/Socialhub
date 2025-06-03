@@ -29,12 +29,12 @@ export default function EventsSection() {
       <div className="grid gap-4 md:grid-cols-2">
         <Card>
           <CardHeader className="pb-2">
-            <CardTitle>Desfiles</CardTitle>
-            <CardDescription>Moda y tendencias</CardDescription>
+            <CardTitle>Eventos Temáticos</CardTitle>
+            <CardDescription>Noches especiales</CardDescription>
           </CardHeader>
           <CardContent>
             <div className="aspect-square relative overflow-hidden rounded-md">
-              <img src="/placeholder.svg?height=300&width=300" alt="Desfiles" className="object-cover w-full h-full" />
+              <img src="/images/group-applauding.jpg" alt="Eventos Temáticos" className="object-cover w-full h-full" />
             </div>
           </CardContent>
           <CardFooter className="flex justify-between">
@@ -52,14 +52,14 @@ export default function EventsSection() {
         </Card>
         <Card>
           <CardHeader className="pb-2">
-            <CardTitle>Eventos Privados</CardTitle>
-            <CardDescription>Celebraciones especiales</CardDescription>
+            <CardTitle>Eventos Corporativos</CardTitle>
+            <CardDescription>Networking profesional</CardDescription>
           </CardHeader>
           <CardContent>
             <div className="aspect-square relative overflow-hidden rounded-md">
               <img
-                src="/placeholder.svg?height=300&width=300"
-                alt="Eventos Privados"
+                src="/images/corporate-event.jpg"
+                alt="Eventos Corporativos"
                 className="object-cover w-full h-full"
               />
             </div>
